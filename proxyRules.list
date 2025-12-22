@@ -26,6 +26,24 @@ DOMAIN-SUFFIX,auth0cdn.com
 DOMAIN-SUFFIX,clerk.dev
 DOMAIN-SUFFIX,clerk.com
 
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,api.anthropic.com
+DOMAIN-SUFFIX,console.anthropic.com
+DOMAIN-SUFFIX,docs.anthropic.com
+DOMAIN-SUFFIX,assets.anthropic.com
+DOMAIN-SUFFIX,static.anthropic.com
+
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,anthropicusercontent.com
+
+DOMAIN-SUFFIX,ai-cdn.anthropic.com
+DOMAIN-SUFFIX,events.anthropic.com
+DOMAIN-SUFFIX,telemetry.anthropic.com
+
+DOMAIN-KEYWORD,anthropic
+DOMAIN-KEYWORD,claude
+
 DOMAIN-SUFFIX,discard.com
 DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steamcommunity.com
