@@ -9,6 +9,15 @@ DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,githubassets.com
 
+- DOMAIN-SUFFIX,anaconda.com,Proxy
+- DOMAIN-SUFFIX,anaconda.org,Proxy
+- DOMAIN-SUFFIX,repo.anaconda.com,Proxy
+- DOMAIN-SUFFIX,conda.anaconda.org,Proxy
+
+- DOMAIN-SUFFIX,conda-forge.org,Proxy
+
+- DOMAIN-SUFFIX,pytorch.org,Proxy
+
 DOMAIN-SUFFIX,trae.ai
 DOMAIN-KEYWORD,trae
 DOMAIN-SUFFIX,api-sg-central.trae.ai
